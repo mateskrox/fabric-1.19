@@ -1,9 +1,3 @@
-# Fabric Example Mod
+This is a test of a mod in Minecraft on Fabric. It's not finished.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Esto es una prueba de un mod de Minecraft en Fabric. No esta terminado.
